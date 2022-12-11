@@ -2,7 +2,7 @@
 
 ![tela login](https://user-images.githubusercontent.com/116196987/206283253-409170fe-c464-4408-ab5a-581cc4d377e2.jpg)
 
-# Tela de Login desenvolvida com React e validação usando TypeScript.
+Tela de Login desenvolvida com React e validação usando TypeScript.
 
 # Getting Started with Create React App
 
