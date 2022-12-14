@@ -1,6 +1,6 @@
 # DIO-TELA-LOGIN-REACT
 
-![tela login](https://user-images.githubusercontent.com/116196987/206283253-409170fe-c464-4408-ab5a-581cc4d377e2.jpg)
+![login2](https://user-images.githubusercontent.com/116196987/207543305-9cfa73e4-e5f6-429c-a54a-17448affd2e5.jpg)
 
 Tela de Login desenvolvida com React e validação usando TypeScript.
 
